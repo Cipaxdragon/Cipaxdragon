@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Ahmad Ghazali</b> 🚀 <br>
-  Web Developer | UI/UX Enthusiast
+  Do Anything
+  
 </p>
 
 ---
