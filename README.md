@@ -1,65 +1,17 @@
-<h1 align="center">
-  
-  ![readmebox](https://github.com/AsrulHidayat/AsrulHidayat/assets/136725199/e01fff48-6a4b-40e8-a048-dd3d8b448917)
+<h1 align="center"> 👋 Welcome to My Profile </h1> <h2 align="center"> Ahmad Ghazali </h2> <p align="center"> Mahasiswa Universitas Islam Alauddin Makassar <br/> Focus on Web Development and UI/UX </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Informatics+Student;UI%2FUX+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> </p>
 
-</h1>
+<h3 align="left">✨ About Me</h3> <table> <tr> <td> <p align="left"> Halo! Saya Ahmad Ghazali.<br/><br/> Saat ini saya sedang menempuh pendidikan di Universitas Islam Alauddin Makassar. Saya suka mengeksplorasi teknologi, membuat desain yang menarik, dan mengembangkan project web. Buat saya, coding dan desain itu kombinasi yang seru untuk mewujudkan ide jadi nyata. </p> </td> <td> <img src="https://i.pinimg.com/originals/ba/c1/cd/bac1cdc1522ec6e9305e9e9b38b20bfd.gif" alt="GIF" width="230" /> </td> </tr> </table>
 
-<h1 align="left">👋 Welcome! </h1>
+<h3 align="left">🌐 Connect With Me</h3>
 
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        Hey there 😎! I'm currently on the journey to snag a degree in Information Systems at Alauddin Makassar State Islamic University. I'm all about the fun stuff playing with tech, crafting cool designs, and diving into the creative world of web development and UI/UX design. I get a kick out of solving tricky coding puzzles and making designs come to life. Let's enjoy the ride! 🚀
-      <br><br>
-        Ehehehe. . . . .
-      </p>
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/ba/c1/cd/bac1cdc1522ec6e9305e9e9b38b20bfd.gif" alt="Animated GIF" width="250">
-    </td>
-  </tr>
-</table> <br>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram">
 
-<p>
-  😁 MY PROFILE VISITOR 🤗 : 
-</p>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 
-<img alt="Cute Count" src="https://count.getloli.com/get/@AsrulHidayat?theme=rule34"/></a>
+<h3 align="left">🛠 Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,github,vscode,mysql,cpp,java,php" /> </p>
 
-<h1 align="left"> 
+<h3 align="left">📊 GitHub Stats</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" /> </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashid.uix/) 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrul-hidayat-867230292/)
-[![](https://visitcount.itsvg.in/api?id=AsruHidayat&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<h3 align="left">👀 Profile Visitor</h3> <p align="left"> <img src="https://count.getloli.com/get/@YOUR_GITHUB_USERNAME?theme=rule34" /> </p>
 
-</h1>
-
-<h1 align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=figma,js,css,html,github,vscode,androidstudio,idea,react,nodejs,notion)](https://skillicons.dev)
-
- <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsrulHidayat&theme=tokyonight" alt="GitHub Stats" style="height: 180px; object-fit: cover;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsrulHidayat&theme=tokyonight" alt="Top Languages" style="height: 180px; object-fit: cover;">
-  </div>
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart,flutter,cpp,expressjs,astro,firebase)](https://skillicons.dev)
-
-</h1>
-
-<h1 align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Animated GIF" width="250px">
-      </td>
-      <td>
-      <a href="https://github.com/AsrulHidayat" >
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsrulHidayat&theme=tokyonight" alt="profile summary card"  />
-        </a>
-      </td>
-    </tr>
-        </table>
-  
-</h1>
+<p align="center"> Terima kasih sudah berkunjung ke profil saya ✨ </p>
